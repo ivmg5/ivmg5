@@ -22,3 +22,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ivmg5/)
 ---
 
 😄 **Fun fact:** I probably spend more time than I should fine-tuning and personalizing my dev environment!  
+
+---
+
+## 📂 Personal Projects
+
+Below are a few of my personal projects:
+
+- **TEC Residential Network Installation:** Scalable, segmented network infrastructure for a Tec de Monterrey residential building.
+- **AIMAX: Personalized Learning Platform:** AI-driven platform delivering tailored learning paths and progress tracking.
+- **BAMX Mobile Application:** React Native app for real-time inventory management at Guadalajara Food Bank.
+- **Autonomous Security System:** Unity + Python + YOLOv5 multi-agent simulation for automated security response.
+- **Oracle Project & Task Manager:** A React web app and Telegram bot on Oracle Cloud, powered by Spring Boot and Oracle Autonomous Database for seamless team task tracking.
